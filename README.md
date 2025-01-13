@@ -1,3 +1,2 @@
-# Tugas Akhir
-
-Ini adalah repositori untuk tugas akhir yang mencakup berbagai file yang diperlukan untuk tugas.
+# Tugas Akhir Repositori  
+Repositori ini mencakup berbagai tugas, seperti lisensi, pedoman kontribusi, kode perilaku, dan script untuk menghitung bunga sederhana.
